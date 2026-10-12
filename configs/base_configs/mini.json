@@ -1,0 +1,15 @@
+{
+    "dataset": "mini_imagenet",
+    "init_class": 60,
+    "base_class": 60,
+    "increment": 5,
+    "num_tasks": 9,
+    "sessions": 9,
+    "way": 5,
+    "shot": 5,
+    "num_classes": 100,
+    "img_size": 224,
+    "save_all_checkpoint": false,
+    "shuffle": true,
+    "seed": 1993
+}

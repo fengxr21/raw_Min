@@ -1,0 +1,15 @@
+{
+    "dataset": "cub",
+    "init_class": 100,
+    "base_class": 100,
+    "increment": 10,
+    "num_tasks": 11,
+    "sessions": 11,
+    "way": 10,
+    "shot": 5,
+    "num_classes": 200,
+    "img_size": 224,
+    "save_all_checkpoint": true,
+    "shuffle": true,
+    "seed": 1993
+}
